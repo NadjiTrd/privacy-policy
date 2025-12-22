@@ -47,4 +47,4 @@ This policy may be updated in the future. Any changes will be reflected on this 
 
 If you have any questions about this Privacy Policy, you can contact us at:
 
-📧 your_email@example.com
+📧 nadjinad062@gmail.com
