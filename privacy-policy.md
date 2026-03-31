@@ -1,50 +1,51 @@
 Privacy Policy
 
-Last updated: December 2025
+Last updated: March 31, 2026
 
-This Privacy Policy explains how PDF Reader – Simple & Fast ("the App") collects, uses, and protects user information.
+This Privacy Policy applies to all applications developed by us ("we", "our", or "us").
 
-1. Information Collection and Use
+We respect your privacy and are committed to protecting it.
 
-The App does not collect, store, or share any personal information.
+Information Collection
 
-All files (PDF documents) are accessed locally on the user's device and are never uploaded or transmitted to any server.
+We do not collect any personal data directly.
 
-2. Permissions
+However, our applications may use third-party services (such as advertising providers like Google AdMob), which may collect information such as:
 
-The App may request the following permissions:
+Device information
+Advertising ID
+Usage data
+Permissions
 
-Storage / Media access:
-Used only to scan and display PDF files stored on the user's device.
+Our applications may request permissions such as:
 
-These permissions are used strictly for app functionality.
+Camera (for scanning features)
+Storage (for saving or reading files)
 
-3. Data Sharing
+These permissions are used only for app functionality.
 
-The App does not share any data with third parties.
+Advertising
 
-4. Advertisements
+Our apps may display ads provided by third-party networks like Google AdMob.
+These services may use cookies or similar technologies to provide better ads.
 
-Currently, the App does not display ads and does not use advertising SDKs.
+Learn more:
+https://policies.google.com/privacy
 
-5. Third-Party Services
+Data Sharing
 
-The App does not use any third-party services that collect user data.
+We do not sell or share personal data with third parties.
+Third-party services may process data according to their own policies.
 
-6. Data Security
+Children's Privacy
 
-Since no personal data is collected or stored, there is no risk of data leakage from servers.
+Our apps are not directed to children under 13.
 
-7. Children's Privacy
+Changes to This Policy
 
-The App does not target children under the age of 13 and does not knowingly collect personal information from children.
+We may update this policy from time to time.
 
-8. Changes to This Privacy Policy
+Contact Us
 
-This policy may be updated in the future. Any changes will be reflected on this page.
-
-9. Contact Us
-
-If you have any questions about this Privacy Policy, you can contact us at:
-
+If you have any questions, contact us:
 📧 nadjinad062@gmail.com
